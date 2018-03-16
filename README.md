@@ -14,7 +14,7 @@ TAEP is a Traffic Analysis and Experimentation platform based on the Barefoot/To
 [github.com/att-innovate/taep-analytics](https://github.com/att-innovate/taep-analytics) contains the components related to the analytics stack.
 
 ### Sample Experiments and Introduction
-There is an [Introduction](https://github.com/att-innovate/taep/blob/master/assets/taep-introduction.pdf?raw=true) available in form of a presentation.
+There is an [Introduction](https://github.com/att-innovate/taep/blob/master/assets/taep-introduction.pdf) available in form of a presentation.
 
 And [TAEP-Examples](https://github.com/att-innovate/taep/blob/master/EXAMPLES.md) lists some sample experiments that can be run on TAEP.
 
