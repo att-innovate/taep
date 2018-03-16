@@ -1,0 +1,6 @@
+# Dev Environment
+.idea/
+.vscode/
+.project
+.DS_Store
+*.iml
