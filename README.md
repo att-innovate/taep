@@ -13,8 +13,10 @@ TAEP is a Traffic Analysis and Experimentation platform based on the Barefoot/To
 #### TAEP-Analytics
 [github.com/att-innovate/taep-analytics](https://github.com/att-innovate/taep-analytics) contains the components related to the analytics stack.
 
-### Sample Experiments
-[TAEP-Examples](https://github.com/att-innovate/taep/blob/master/EXAMPLES.md) lists some sample experiments that can be run on TAEP.
+### Sample Experiments and Introduction
+There is an [Introduction](https://github.com/att-innovate/taep/blob/master/assets/taep-introduction.pdf?raw=true) available in form of a presentation.
+
+And [TAEP-Examples](https://github.com/att-innovate/taep/blob/master/EXAMPLES.md) lists some sample experiments that can be run on TAEP.
 
 ### Installation
 The TAEP code, the scripts, and experiments got developed and tested on following Barefoot/Tofino based setup:
@@ -27,4 +29,3 @@ The TAEP code, the scripts, and experiments got developed and tested on followin
 	- bf-sde-7.0.0.18 
 
 Assuming you have the same setup just follow the installation steps as outlined in the [TAEP-Scripts](https://github.com/att-innovate/taep-scripts) sub-project.
-
